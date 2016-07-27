@@ -1,0 +1,16 @@
+---
+title: "DOD Child Abuse and Neglect Annual Report"
+output: pdf_document
+date: "June 1, 2016"
+---
+
+This report describes the data contained in the Department of Defense (DoD) 
+Family Advocacy Program (FAP) database. All analyses were conducted by 
+researchers at Northern Illinois University under a DoD FAP contract.
+
+
+
+
+
+
+
